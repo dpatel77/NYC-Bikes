@@ -1,0 +1,22 @@
+# Tableau Homework - Citi Bike Analytics
+
+In this analysis there are two dashboards, one with month-over-month data for November and December 2019. There were 20M rides
+in November compared to 13M in December. A hypothesis for this is the decline in weather or increased vacation time during the
+holidays and decreased rides getting to work. The age bracket with the greatest number of citi bike usage (count of rides) is 
+the age group between 20-39. This could be for multiple reasons; youth, a average age of people communuting into NYC via public
+transit, or the average age of people working in NYC. Further data would be required to solidify these pre-conceived notions. For
+every day in November and December more males rode Citi bikes compared to females or unknown gender.
+
+The second dashboard is data useful for the bike tech team. This easiest actionable item here is identifying the top 10 bikes with
+the greatest miles rode. This will help the technicians identify which bikes to closely monitor or take to the shop for a tune-up
+or check-up. The caveat with this is once a bike is tuned-up and put back on the market there is not reset on the miles rode on the
+bike unless there's a new bike ID given after refurbishment. This system would work perfectly if the bike was just recycled. This 
+dashboard also has the most start and end stations to identify where the end of day Citi bike trucks need to go to redistribute for
+the morning commute. There is also information and the most popular start and end stations to make sure they are distributed properly.
+
+https://public.tableau.com/profile/dharti.patel#!/vizhome/CitiBikesNYCAnalysis/CitiBikes
+
+Sincerely,
+
+
+Dharti
